@@ -55,7 +55,7 @@ Uygulamayı Çalıştırın:
 
 Bash
 
-python main.py
+python miras-uygulamasi.py
 (Not: Dosya adınız modern_miras.py ise komutu ona göre düzenleyin)
 
 🧠 Fıkhi Taban ve Algoritma
