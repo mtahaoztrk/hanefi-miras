@@ -1,7 +1,3 @@
-Harika bir proje oldu! GitHub'a yüklerken projenin ne kadar kapsamlı ve fıkhı kurallara ne kadar sadık olduğunu göstermek önemlidir.
-
-Aşağıda, projeniz için hazırladığım profesyonel README.md dosyası bulunmaktadır. Bunu kopyalayıp projenizin ana dizinine yapıştırabilirsiniz.
-
 🏛️ Sirâciyye: Modern Hanefi Miras Hesaplayıcı
 Bu proje, Hanefi mezhebinin temel miras hukuku metni olan el-Ferâizü's-Sirâciyye kitabındaki kuralları temel alarak geliştirişmiş, modern arayüze sahip bir miras (ferâiz) hesaplama uygulamasıdır.
 
