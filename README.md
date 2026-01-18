@@ -44,8 +44,8 @@ Repoyu Klonlayın:
 
 Bash
 
-git clone https://github.com/KULLANICI_ADINIZ/siraciyye-miras-hesaplayici.git
-cd siraciyye-miras-hesaplayici
+git clone https://github.com/mtahaoztrk/hanefi-miras
+cd hanefi-miras
 Gerekli Kütüphaneyi Yükleyin: Proje, modern arayüz için customtkinter kullanır.
 
 Bash
